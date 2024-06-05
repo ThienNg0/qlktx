@@ -1,0 +1,11 @@
+Trang Sinh Vien
+ Test
+  tk: 2001200284
+  mk: 1
+Sinh viên có thể đăngkýphong , chuyển phòng , trả phòng , xem thông báo 
+Trang admin http://ktxgroup18.great-site.net/admin/
+ tk NV1
+ mk: 123456
+Admin quản lí toàn bộ xử lí đăng kí , chuyển phòng , trả phòng cho toàn bộ sinh viên(co the xem lich su xu li)
+ them , xoa , sua sinh vien , inport file excel(file excel để trong file này luôn) , thong ke phong , them tien dien nuoc
+
