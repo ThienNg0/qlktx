@@ -1,0 +1,109 @@
+.logo {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.cantop {
+  margin-top: 40px;
+  color: #fff;
+}
+
+.nenxanh {
+  background:#3366ff;
+}
+
+.nenbac {
+  background: #edf0f2;
+}
+
+.logofb {
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  background-color: #333333;
+}
+
+.logofb:hover {
+  background: #F26522;
+  height: 40px;
+  width: 40px;
+}
+
+nav.menu {
+  text-align: center;
+}
+
+nav.menu ul {
+  background: #EDF0F2;
+  list-style-type: none;
+  padding: 0;
+}
+
+nav.menu li {
+  display: inline-block;
+  position: relative;
+}
+
+nav.menu a {
+  text-decoration: none;
+  color: #070707;
+  display: block;
+  padding: 15px;
+}
+
+nav.menu a.ad {
+  background: #F26522;
+  color: #fff;
+}
+
+nav.menu a:hover {
+  background: #F26522;
+  color: #fff;
+}
+
+nav.menu .sub-menu {
+  display: none;
+  background: #FFFFFF;
+  box-shadow: 1px 1px 2px #999999;
+  position: absolute;
+  width: 200px;
+  z-index: 1;
+}
+
+nav.menu li:hover .sub-menu {
+  display: block;
+}
+
+#menu h3 {
+  background-color: #3366ff;
+  color: #fff;
+  padding: .5em;
+  text-align: center;
+}
+
+#menu {
+  width: 200px;
+  display: block;
+  background: #edf0f2;
+}
+
+#menu ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#menu li {
+  line-height: 2em;
+}
+
+#menu li a {
+  text-decoration: none;
+  color: #070707;
+  display: block;
+  padding-left: 1em;
+}
+
+#menu a:hover {
+  background: #F26522;
+  color: #fff;
+}
